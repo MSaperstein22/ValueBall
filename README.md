@@ -48,7 +48,19 @@ Below are some screenshots of the spreadsheet after Week 3 of the 2023 NFL seaso
 
 ## Python Script ##
 
-In Summer 2023, I decided to write a Python script that could be used to calculate these scores and then graph the results. I utilized...
+In Summer 2023, I decided to write a Python script that could be used to calculate these scores and then graph the results. I utilized several technologies in this Python script:
+
+1. Python: The entire script is written in Python, which is a high-level programming language.
+
+2. Requests Library: I imported the requests library to make HTTP GET requests to a website and fetch its HTML content. This is used to retrieve data from the internet.
+
+3. Beautiful Soup (bs4): I imported the BeautifulSoup library from the bs4 package. BeautifulSoup is used for parsing HTML and XML documents. In this script, it is used to parse the HTML content of the webpage I fetched with requests and extract specific data from it.
+
+4. Pandas Library: I imported the pandas library as pd. Pandas is a powerful data manipulation and analysis library. I use it to create and manipulate DataFrames, which are tabular data structures. In this script, I create a DataFrame to store and work with the extracted data.
+
+5. Matplotlib Library: I imported the matplotlib.pyplot library as plt. Matplotlib is a popular library for creating data visualizations in Python. I use it to generate a horizontal bar plot to visualize the rankings and differences for fantasy football players.
+
+Overall, this Python script combines web scraping (using Requests and BeautifulSoup), data manipulation (using Pandas), and data visualization (using Matplotlib) to analyze and visualize fantasy football player rankings.
 
 The Python script can be found here: https://github.com/MSaperstein22/ValueBall/blob/main/ValueBall.py
 
