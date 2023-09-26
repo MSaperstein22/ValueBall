@@ -54,15 +54,15 @@ In Summer 2023, I decided to write a Python script that could be used to calcula
 
 1. Python: The entire script is written in Python, which is a high-level programming language.
 
-2. Requests Library: I imported the requests library to make HTTP GET requests to a website and fetch its HTML content. This is used to retrieve data from the internet.
+2. Requests Library: I imported the requests library to make HTTP GET requests to the Fantasy Pros website and fetch its HTML content from the NFL wide reciever stats page. This is used to retrieve the most recent player data from the internet at any given moment to provide the user with the most up-to-date information.
 
 3. Beautiful Soup (bs4): I imported the BeautifulSoup library from the bs4 package. BeautifulSoup is used for parsing HTML and XML documents. In this script, it is used to parse the HTML content of the webpage I fetched with requests and extract specific data from it.
 
-4. Pandas Library: I imported the pandas library as pd. Pandas is a powerful data manipulation and analysis library. I use it to create and manipulate DataFrames, which are tabular data structures. In this script, I create a DataFrame to store and work with the extracted data.
+4. Pandas Library: I imported the pandas library as pd. Pandas is a powerful data manipulation and analysis library. I use it to create and manipulate DataFrames, which are tabular data structures. In this script, I create a DataFrame to store and work with the extracted wide reciever data to eventually calculate new scores and rankings.
 
-5. Matplotlib Library: I imported the matplotlib.pyplot library as plt. Matplotlib is a popular library for creating data visualizations in Python. I use it to generate a horizontal bar plot to visualize the rankings and differences for fantasy football players.
+5. Matplotlib Library: I imported the matplotlib.pyplot library as plt. Matplotlib is a popular library for creating data visualizations in Python. I use it to generate a horizontal bar plot to visualize the rankings of wide recievers to buy low and sell high as well as the difference in my projected rankings and the actual rankings for fantasy football wide recievers.
 
-Overall, this Python script combines web scraping (using Requests and BeautifulSoup), data manipulation (using Pandas), and data visualization (using Matplotlib) to analyze and visualize fantasy football player rankings.
+Overall, this Python script combines web scraping (using Requests and BeautifulSoup), data manipulation (using Pandas), and data visualization (using Matplotlib) to analyze and visualize fantasy football wide reciever rankings to give fantasy football managers an advantage throughout the entire season.
 
 The Python script can be found here: https://github.com/MSaperstein22/ValueBall/blob/main/ValueBall.py
 
@@ -70,8 +70,3 @@ Below is a screenshot of the graph of overvalued and undervalued wide reciviers 
 <br>
 <img width="1005" alt="FantasyFootballGraph" src="https://github.com/MSaperstein22/ValueBall/assets/109482908/40e99baa-fad5-430c-a32c-b47d483e8098">
 <br>
-
-Analysis
-
-
-# Impact
