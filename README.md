@@ -2,9 +2,9 @@
 
 I've been playing fantasy football since 2014. Each year, however, I would always become frustrated with the top analysts' preseason projections as they never seemed to be accurate by the end of the season. Their preseason projections would always closely mirror the final player rankings from the previous year, relying almost entirely on recency bias instead of statistical projections. In 2020, I decided to create a better way to project fantasy football performance using a spreadsheet to achieve the following goals:
 
-1. Target players who are being undervalued✅
-2. Trade players who are being overvalued⛔️
-3. Finally beat my friends in fantasy football😎
+1. Target players who are being undervalued ✅
+2. Trade players who are being overvalued ⛔️
+3. Finally beat my friends in fantasy football 😎
 
 # Explanation
 My attitude when it comes to fantasy football has always been the following: if a wide reciever gets more targets, there is a greater chance that he will get more yards and TDs. Logically, this makes sense. The first step to recievers gaining yards and touchdowns is by getting receptions. And every new reception is a new chance to accumulate yards and score a touchdown.
