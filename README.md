@@ -16,6 +16,6 @@ In my original spreadsheet, I assigned each target a value of 0.74 points. I cho
 
 I then ranked the WRs according to my scoring and compared that to the actual non-ppr fantasy scoring. The difference here is key: if the box is green and has a higher number, it means the player is being undervalued and you should buy him ASAP. If the box is red and has a higher number, it means the player is being overvalued, he's probably touchdown dependent, and you should probably try to sell high. By looking at this spreadsheet, I was able to sell some of my players high to other teams last year and trade for and add players who were being undervalued according to my analytics system.
 
-Access the spreadsheet using this link: https://docs.google.com/spreadsheets/d/1kpf9QdxtBV0tafUXUwOGLNR5V8OyPvUlc23D0oR21vI/edit?usp=sharing
+The spreadsheet is automatically updated with the most recent data from the current NFL season. Access it using the following link: https://docs.google.com/spreadsheets/d/1kpf9QdxtBV0tafUXUwOGLNR5V8OyPvUlc23D0oR21vI/edit?usp=sharing
 
 # Impact
