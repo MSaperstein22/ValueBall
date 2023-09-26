@@ -18,4 +18,19 @@ I then ranked the WRs according to my scoring and compared that to the actual no
 
 The spreadsheet is automatically updated with the most recent data from the current NFL season. Access it using the following link: https://docs.google.com/spreadsheets/d/1kpf9QdxtBV0tafUXUwOGLNR5V8OyPvUlc23D0oR21vI/edit?usp=sharing
 
+Below are some screenshots of the spreadsheet after Week 3 of the 2023 NFL season.
+
+## Top Stats ##
+<img width="335" alt="Screenshot 2023-09-26 at 4 08 49 PM" src="https://github.com/MSaperstein22/ValueBall/assets/109482908/13c28421-e21e-4cf8-98c1-a95eed384479">
+
+
+<br>
+
+## Buy Lows ##
+<img width="334" alt="Screenshot 2023-09-26 at 4 09 02 PM" src="https://github.com/MSaperstein22/ValueBall/assets/109482908/ad8b8f33-8521-480e-89ac-2b90ade3e575">
+<br>
+
+## Sell Highs ##
+<img width="335" alt="Screenshot 2023-09-26 at 4 09 13 PM" src="https://github.com/MSaperstein22/ValueBall/assets/109482908/ae520571-57ea-44b7-be46-2838c0a0a00a">
+
 # Impact
