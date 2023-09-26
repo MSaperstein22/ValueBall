@@ -8,14 +8,14 @@ I've been playing fantasy football since 2014. Each year, however, I would alway
 
 # Case Study - 2019 NFL Season
 
-Matt Bowden is an ESPN staff writer. The following table compares his 2019 preseason wide reciever fantasy rankings to the final 2019 wide reciever fantasy rankings at the end of the season.
+Matt Bowden is an ESPN staff writer. The following table compares his 2019 preseason wide reciever fantasy rankings to the 2019 final wide reciever fantasy rankings at the end of the season.
 
 <br>
 <img width="468" alt="Screenshot 2023-09-26 at 4 43 43 PM" src="https://github.com/MSaperstein22/ValueBall/assets/109482908/24ea4dbf-500b-4fcd-9511-a79a146c8ab0">
 <br>
 <br>
 
-9 players who Bowden suggested would finish the season in the top 20 did not achieve that feat. Additionally, 3 other recievers made the top 20 but did worse than Bowden predicted. This shows how the analysts preseason projections for wide recievers can be very inaccurate.
+9 players who Bowden suggested would finish the season in the top 20 did not achieve that feat. Additionally, 3 other recievers who Bowden predicted would make the top 20 did so but they performed worse in the rankings than Bowden predicted. This shows how the analysts' preseason projections for wide recievers can be very inaccurate.
 
 # Purpose
 My attitude when playing fantasy football has always been if a wide reciever gets more targets, there is a greater chance that he will get more yards and touchdowns and score more points. Logically, this makes sense. The first step to recievers gaining yards and touchdowns is by getting receptions. And every new reception is a new chance to accumulate yards and score a touchdown.
