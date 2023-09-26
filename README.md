@@ -50,6 +50,8 @@ Below are some screenshots of the spreadsheet after Week 3 of the 2023 NFL seaso
 
 In Summer 2023, I decided to write a Python script that could be used to calculate these scores and then graph the results. I utilized...
 
+The Python script can be found here: https://github.com/MSaperstein22/ValueBall/blob/main/ValueBall.py
+
 Below is a screenshot of the graph of overvalued and undervalued wide reciviers based on data from the 2022 season.
 <br>
 <img width="1005" alt="FantasyFootballGraph" src="https://github.com/MSaperstein22/ValueBall/assets/109482908/40e99baa-fad5-430c-a32c-b47d483e8098">
