@@ -46,4 +46,16 @@ Below are some screenshots of the spreadsheet after Week 3 of the 2023 NFL seaso
 ## Sell Highs ##
 <img width="335" alt="Screenshot 2023-09-26 at 4 09 13 PM" src="https://github.com/MSaperstein22/ValueBall/assets/109482908/ae520571-57ea-44b7-be46-2838c0a0a00a">
 
+## Python Script ##
+
+In Summer 2023, I decided to write a Python script that could be used to calculate these scores and then graph the results. I utilized...
+
+Below is a screenshot of the graph of overvalued and undervalued wide reciviers based on data from the 2022 season.
+<br>
+<img width="1005" alt="FantasyFootballGraph" src="https://github.com/MSaperstein22/ValueBall/assets/109482908/40e99baa-fad5-430c-a32c-b47d483e8098">
+<br>
+
+Analysis
+
+
 # Impact
