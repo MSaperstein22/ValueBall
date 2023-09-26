@@ -6,7 +6,7 @@ I've been playing fantasy football since 2014. Each year, however, I would alway
 2. Trade players who are being overvalued ⛔️
 3. Finally beat my friends in fantasy football 😎
 
-# Explanation
+# Purpose
 My attitude when playing fantasy football has always been if a wide reciever gets more targets, there is a greater chance that he will get more yards and touchdowns and score more points. Logically, this makes sense. The first step to recievers gaining yards and touchdowns is by getting receptions. And every new reception is a new chance to accumulate yards and score a touchdown.
 
 In fantasy football, however, targets are not accounted for in the scoring. As a result, this statistic is often overlooked by even the most experienced fantasy football managers. **I needed to create a way to factor in targets along with all of the other typical stats to better value recievers based on their most recent performance.**
