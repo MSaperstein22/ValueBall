@@ -1,6 +1,5 @@
 # ValueBall
 
-# Purpose
 I've been playing fantasy football since 2014. Each year, however, I would always become frustrated with the top analysts' player projections as they never seemed to be accurate by the end of the season. Their preseason projections would always closely mirror the final player rankings from the previous year - relying on recency bias. In 2020, I decided to create a better way to project fantasy football performance using a spreadsheet so that I could 1) target players who are being undervalued, 2) trade players who are being overvalued, and 3) beat my friends in fantasy football.
 
 # Explanation
