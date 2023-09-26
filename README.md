@@ -3,8 +3,10 @@
 I've been playing fantasy football since 2014. Each year, however, I would always become frustrated with the top analysts' preseason projections as they never seemed to be accurate by the end of the season. Their preseason projections would always closely mirror the final player rankings from the previous year, relying almost entirely on recency bias instead of statistical projections. In 2020, I decided to create a better way to project fantasy football performance using a spreadsheet to achieve the following goals:
 
 1. Target players who are being undervalued ✅
-2. Trade players who are being overvalued ⛔️
-3. Finally beat my friends in fantasy football 😎
+   
+3. Trade players who are being overvalued ⛔️
+
+5. Finally beat my friends in fantasy football 😎
 
 # Case Study - 2019 NFL Season
 
