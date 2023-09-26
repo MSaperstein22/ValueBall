@@ -71,6 +71,8 @@ Below is a screenshot of the graph of overvalued and undervalued wide reciviers 
 <img width="1005" alt="FantasyFootballGraph" src="https://github.com/MSaperstein22/ValueBall/assets/109482908/40e99baa-fad5-430c-a32c-b47d483e8098">
 <br>
 
+# ValueBall Case Study - 2022 NFL Season
+
 Looking at the graph from the end of the 2022 season, we can see that Chris Godwin was ValueBall's biggest buy low at the end of the season, with a difference of 8 rankings between ValueBall's ranking and his actual ranking. Godwin ended the season with 142 targets, 10th best in the league. However, Godwin only had 3 recieving touchdowns on the season. As a result, ValueBall highlighted Godwin as a player to buy low, with a high probabilitiy to score more points in the future based on his incredible average rate of 9.5 targets per game, 4th best in the league for wide recievers playing at least 14 games.
 
 We also see that Garrett Wilson was the second biggest buy low at the end of the season. This makes sense as Wilson ended the season with 147 targets, tied for 6th best in the NFL, though he ended the season as the 21st best fantasy wide reciever. Wilson had an incredible season, though only totaling 4 touchdowns on the year. His 83 receptions and 1103 yards were enough to crown him NFL Offensive Rookie of the Year. Based on his high target rates, Wilson is valued highly according to ValueBall.
