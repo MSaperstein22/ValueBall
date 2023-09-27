@@ -56,22 +56,23 @@ In Summer 2023, I decided to write a Python script that could be used to calcula
 
 2. Requests Library: I imported the requests library to make HTTP GET requests to the Fantasy Pros website and fetch its HTML content from the NFL wide reciever stats page. This is used to retrieve the most recent player data from the internet at any given moment to provide the user with the most up-to-date information.
 
-3. Beautiful Soup (bs4): I imported the BeautifulSoup library from the bs4 package. BeautifulSoup is used for parsing HTML and XML documents. In this script, it is used to parse the HTML content of the webpage I fetched with requests and extract specific data from it.
+3. Beautiful Soup (bs4): I imported the BeautifulSoup library from the bs4 package. BeautifulSoup is used for parsing HTML and XML documents. In this script, it is used to parse the HTML content of the webpage I fetched with requests and extract specific stats data from it.
 
-4. Pandas Library: I imported the pandas library as pd. Pandas is a powerful data manipulation and analysis library. I use it to create and manipulate DataFrames, which are tabular data structures. In this script, I create a DataFrame to store and work with the extracted wide reciever data to eventually calculate new scores and rankings.
+4. Pandas Library: I imported the pandas library to utilize it for powerful data manipulation and analysis. I use pandas to create and manipulate DataFrames, which are tabular data structures. In this script, I create a DataFrame to store and work with the extracted wide reciever data to then calculate new scores and player rankings.
 
-5. Matplotlib Library: I imported the matplotlib.pyplot library as plt. Matplotlib is a popular library for creating data visualizations in Python. I use it to generate a horizontal bar plot to visualize the rankings of wide recievers to buy low and sell high as well as the difference in my projected rankings and the actual rankings for fantasy football wide recievers.
+5. Matplotlib Library: I imported Matplotlib, a popular library for creating data visualizations in Python. I use Matplotlib to generate a horizontal bar plot to visualize the rankings of wide recievers to buy low and sell high. I also utilize Matplotlib to visualize the difference in my projected rankings and the actual rankings for fantasy football wide recievers.
 
-Overall, this Python script combines web scraping (using Requests and BeautifulSoup), data manipulation (using Pandas), and data visualization (using Matplotlib) to analyze and visualize fantasy football wide reciever rankings to give fantasy football managers an advantage throughout the entire season.
+Overall, this Python script combines web scraping (using Requests and BeautifulSoup), data manipulation (using Pandas), and data visualization (using Matplotlib) to analyze and visualize fantasy football wide reciever rankings, giving fantasy football managers a crucial tool to use to their advantage throughout the season.
 
 The Python script can be found here: https://github.com/MSaperstein22/ValueBall/blob/main/ValueBall.py
 
+# ValueBall Case Study - 2022 NFL Season
+
 Below is a screenshot of the graph of overvalued and undervalued wide reciviers based on data from the 2022 season.
+
 <br>
 <img width="1005" alt="FantasyFootballGraph" src="https://github.com/MSaperstein22/ValueBall/assets/109482908/40e99baa-fad5-430c-a32c-b47d483e8098">
 <br>
-
-# ValueBall Case Study - 2022 NFL Season
 
 Looking at the graph from the end of the 2022 season, we can see that Chris Godwin was ValueBall's biggest buy low at the end of the season, with a difference of 8 rankings between ValueBall's ranking and his actual ranking. Godwin ended the season with 142 targets, 10th best in the league. However, Godwin only had 3 recieving touchdowns on the season. As a result, ValueBall highlighted Godwin as a player to buy low, with a high probabilitiy to score more points in the future based on his incredible average rate of 9.5 targets per game, 4th best in the league for wide recievers playing at least 14 games.
 
