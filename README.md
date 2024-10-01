@@ -68,7 +68,7 @@ The Python script can be found here: https://github.com/MSaperstein22/ValueBall/
 
 # ValueBall Case Study - 2022 NFL Season
 
-Below is a screenshot of the graph of overvalued and undervalued wide reciviers based on data from the 2022 season.
+Below is a screenshot of the graph of overvalued and undervalued wide recievers based on data from the 2022 season.
 
 <br>
 <img width="1005" alt="FantasyFootballGraph" src="https://github.com/MSaperstein22/ValueBall/assets/109482908/40e99baa-fad5-430c-a32c-b47d483e8098">
